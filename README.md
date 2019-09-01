@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # phobos-client
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# humble-phobos-client
+Client phobos
+>>>>>>> 353b3bf79e01d7207fd6058ea5b22617554748c9
